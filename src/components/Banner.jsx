@@ -18,7 +18,7 @@ const Banner = ({ onBrowse }) => {
               onClick={onBrowse}
               className="bg-indigo-500 hover:bg-indigo-600 text-white px-7 py-3 rounded-xl font-medium transition"
             >
-              Browse Products
+              Browse Product
             </button>
             <a
               href="#pricing-sec"
