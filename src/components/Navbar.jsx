@@ -6,7 +6,7 @@ const Navbar = ({ cartCount, onCartClick }) => {
           🚀 <span className="bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">LaunchKit</span>
         </div>
         <div className="hidden md:flex gap-6 text-slate-400 text-sm">
-          <a href="#products-sec" className="hover:text-white transition">Products</a>
+          <a href="#products-sec" className="hover:text-white transition">Product</a>
           <a href="#steps-sec" className="hover:text-white transition">How it works</a>
           <a href="#pricing-sec" className="hover:text-white transition">Pricing</a>
         </div>
