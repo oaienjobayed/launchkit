@@ -5,7 +5,7 @@ const plans = [
     period: '/mo',
     desc: 'Perfect for solo founders and small teams just getting started.',
     featured: false,
-    features: ['Up to 3 products', '5 team members', 'Basic analytics', 'Email support'],
+    feature: ['Up to 3 products', '5 team members', 'Basic analytics', 'Email support'],
     cta: 'Get Started',
   },
   {
