@@ -14,7 +14,7 @@ const MainToggle = ({ view, setView, cart, onAdd, onRemove, onCheckout }) => {
                 : 'text-slate-500 hover:text-slate-800'
             }`}
           >
-            📦 Products
+            📦 Product
           </button>
           <button
             onClick={() => setView('cart')}
