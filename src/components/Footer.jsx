@@ -24,7 +24,7 @@ const Footer = () => (
         ))}
       </div>
       <div className="border-t border-white/10 pt-6 flex flex-col md:flex-row justify-between items-center gap-3 text-xs">
-        <span>© 2025 LaunchKit, Inc. All rights reserved.</span>
+        <span>© 2025 LaunchKit, Inc. All rights reserved </span>
         <div className="flex gap-4">
           <a href="#" className="hover:text-white transition">Privacy</a>
           <a href="#" className="hover:text-white transition">Terms</a>
