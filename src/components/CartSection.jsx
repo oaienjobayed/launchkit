@@ -8,7 +8,7 @@ const CartSection = ({ cart, onRemove, onCheckout }) => {
       <div className="text-center py-20 text-slate-400">
         <div className="text-5xl mb-4 opacity-30">🛒</div>
         <p className="font-semibold text-lg">Your cart is empty</p>
-        <p className="text-sm mt-1">Switch to Products to browse</p>
+        <p className="text-sm mt-1">Switch to Product to browse</p>
       </div>
     )
   }
